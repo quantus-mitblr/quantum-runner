@@ -13,3 +13,14 @@ Now, we need your help.
 There is a way to save the entire universe before it collapses on itself into a void, and that knowledge must reach the right hands without getting destroyed! You're in-charge of carrying the qubit that carries vital data for the operation to the other end of the universe.  
 
 Can you do it?
+
+## How To Play:  
+
+1. Use the arrow keys to make the qubit go left, right, up and down.  
+2. Press 'K' to alternate between wave and particle states.  
+3. Avoid lasers and walls.  
+4. If there's an observer (eye) in front of a double-slit wall (the white one) remain a particle.  
+5. Otherwise, press K to become a wave!  
+
+## Download the zip file in the repository to play the game!  
+Developer's Note: The tutorial is currently buggy. Please proceed to directly play the game.
