@@ -1,5 +1,9 @@
 # Quantum Runner v1.0  
 
+## Gameplay Demo Video:  
+[![Watch the video](https://img.youtube.com/vi/jKfBRqIpsAo/0.jpg)](https://youtu.be/jKfBRqIpsAo)
+
+
 ### Do you have what it takes to save the universe?  
 
 We came this close to colonising the entire universe. And then, we ruined everything just like we ruined our Home Planet 0.1, the Earth.  
